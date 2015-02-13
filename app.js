@@ -12,6 +12,7 @@ var index = require('./routes/index');
 var project = require('./routes/project');
 // Example route
 // var user = require('./routes/user');
+var palette = require('./routes/palette');
 
 var app = express();
 
